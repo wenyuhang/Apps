@@ -2,7 +2,7 @@ package com.example.apps;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
+//这是修改的
 public class MainActivity extends AppCompatActivity {
 
     @Override
