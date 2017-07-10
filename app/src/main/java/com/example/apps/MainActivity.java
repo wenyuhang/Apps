@@ -8,6 +8,7 @@ import android.os.Bundle;
 //1245444
 //5555259292
 //温宇航
+//老刘是大傻子
 public class MainActivity extends AppCompatActivity {
 
     @Override
