@@ -19,7 +19,7 @@ import com.example.apps.HomeRollVideo.RollVideoMain;
 import butterknife.Bind;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-
+//1
 public class HomeActivity extends AppCompatActivity {
 
     @Bind(R.id.home_page)
