@@ -18,7 +18,7 @@ import com.example.apps.homes.homerollvideo.RollVideoMain;
 
 import butterknife.Bind;
 import butterknife.OnClick;
-//3-3
+//3-4
 public class HomeActivity extends BaseActivity {
 
     @Bind(R.id.home_page)
