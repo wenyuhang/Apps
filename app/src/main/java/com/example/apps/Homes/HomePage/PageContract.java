@@ -1,9 +1,9 @@
-package com.example.apps.Homes.HomePage;
+package com.example.apps.homes.homepage;
 
 
-import com.example.apps.Base.BasePresenter;
-import com.example.apps.Base.BaseView;
-import com.example.apps.Model.DateBean.PageBean;
+import com.example.apps.base.BasePresenter;
+import com.example.apps.base.BaseView;
+import com.example.apps.model.datebean.PageBean;
 
 /**
  * Created by 联想 on 2017/7/12.

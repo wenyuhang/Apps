@@ -1,4 +1,4 @@
-package com.example.apps.NetWorks;
+package com.example.apps.networks;
 
 /**
  * Created by 联想 on 2017/7/12.

@@ -1,8 +1,8 @@
-package com.example.apps.Homes.HomePandaBroadcast;
+package com.example.apps.homes.homepandabroadcast;
 
 import android.view.View;
 
-import com.example.apps.Base.BaseFragment;
+import com.example.apps.base.BaseFragment;
 import com.example.apps.R;
 
 /**

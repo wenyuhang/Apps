@@ -1,7 +1,7 @@
-package com.example.apps.NetWorks;
+package com.example.apps.networks;
 
-import com.example.apps.App.App;
-import com.example.apps.NetWorks.MyCallBacks.NetCallbacks;
+import com.example.apps.app.App;
+import com.example.apps.networks.mycallbacks.NetCallbacks;
 import com.google.gson.Gson;
 
 import java.io.IOException;

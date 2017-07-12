@@ -1,8 +1,8 @@
-package com.example.apps.Homes.HomeRollVideo;
+package com.example.apps.homes.homerollvideo;
 
 import android.view.View;
 
-import com.example.apps.Base.BaseFragment;
+import com.example.apps.base.BaseFragment;
 import com.example.apps.R;
 
 /**

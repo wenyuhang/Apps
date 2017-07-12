@@ -1,4 +1,4 @@
-package com.example.apps.NetWorks.MyCallBacks;
+package com.example.apps.networks.mycallbacks;
 
 /**
  * Created by 联想 on 2017/7/12.

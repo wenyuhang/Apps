@@ -1,10 +1,10 @@
-package com.example.apps.Homes.HomePage;
+package com.example.apps.homes.homepage;
 
 import android.util.Log;
 import android.view.View;
 
-import com.example.apps.Base.BaseFragment;
-import com.example.apps.Model.DateBean.PageBean;
+import com.example.apps.base.BaseFragment;
+import com.example.apps.model.datebean.PageBean;
 import com.example.apps.R;
 
 /**

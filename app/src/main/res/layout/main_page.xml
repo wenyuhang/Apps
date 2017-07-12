@@ -10,4 +10,7 @@
     android:gravity="center"
     android:text="第一个Fragment"
     />
+    <com.androidkun.PullToRefreshRecyclerView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"></com.androidkun.PullToRefreshRecyclerView>
 </LinearLayout>

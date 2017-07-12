@@ -1,7 +1,7 @@
-package com.example.apps.Model.biz;
+package com.example.apps.model.biz;
 
-import com.example.apps.Model.DateBean.PageBean;
-import com.example.apps.NetWorks.MyCallBacks.NetCallbacks;
+import com.example.apps.model.datebean.PageBean;
+import com.example.apps.networks.mycallbacks.NetCallbacks;
 import com.example.apps.config.Urls;
 
 /**

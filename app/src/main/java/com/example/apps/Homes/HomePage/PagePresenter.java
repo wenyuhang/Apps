@@ -1,9 +1,9 @@
-package com.example.apps.Homes.HomePage;
+package com.example.apps.homes.homepage;
 
-import com.example.apps.Model.DateBean.PageBean;
-import com.example.apps.Model.biz.IHomeImpl;
-import com.example.apps.Model.biz.IHomeModel;
-import com.example.apps.NetWorks.MyCallBacks.NetCallbacks;
+import com.example.apps.model.datebean.PageBean;
+import com.example.apps.model.biz.IHomeImpl;
+import com.example.apps.model.biz.IHomeModel;
+import com.example.apps.networks.mycallbacks.NetCallbacks;
 
 /**
  * Created by 联想 on 2017/7/12.

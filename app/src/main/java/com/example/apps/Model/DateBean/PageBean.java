@@ -1,4 +1,4 @@
-package com.example.apps.Model.DateBean;
+package com.example.apps.model.datebean;
 
 import java.util.List;
 
