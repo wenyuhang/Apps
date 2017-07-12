@@ -1,10 +1,10 @@
-package com.example.apps.Base;
+package com.example.apps.base;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 
-import com.example.apps.App.App;
+import com.example.apps.app.App;
 
 import butterknife.ButterKnife;
 

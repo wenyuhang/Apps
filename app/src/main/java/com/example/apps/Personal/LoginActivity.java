@@ -1,6 +1,6 @@
-package com.example.apps.Personal;
+package com.example.apps.personal;
 
-import com.example.apps.Base.BaseActivity;
+import com.example.apps.base.BaseActivity;
 import com.example.apps.R;
 
 public class LoginActivity extends BaseActivity {

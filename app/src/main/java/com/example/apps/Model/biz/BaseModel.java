@@ -1,7 +1,7 @@
-package com.example.apps.Model.biz;
+package com.example.apps.model.biz;
 
-import com.example.apps.NetWorks.HttpFactroy;
-import com.example.apps.NetWorks.IHttp;
+import com.example.apps.networks.HttpFactroy;
+import com.example.apps.networks.IHttp;
 
 /**
  * Created by 联想 on 2017/7/12.

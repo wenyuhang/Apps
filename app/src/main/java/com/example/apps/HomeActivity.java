@@ -8,13 +8,13 @@ import android.widget.LinearLayout;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
-import com.example.apps.Base.BaseActivity;
-import com.example.apps.Homes.HomeLiveChina.LiveChinaMain;
-import com.example.apps.Homes.HomePage.PageMain;
-import com.example.apps.Homes.HomePage.PagePresenter;
-import com.example.apps.Homes.HomePandaBroadcast.PandaBroadcastMain;
-import com.example.apps.Homes.HomePandaLive.PandaLiveMain;
-import com.example.apps.Homes.HomeRollVideo.RollVideoMain;
+import com.example.apps.base.BaseActivity;
+import com.example.apps.homes.homelivechina.LiveChinaMain;
+import com.example.apps.homes.homepage.PageMain;
+import com.example.apps.homes.homepage.PagePresenter;
+import com.example.apps.homes.homepandabroadcast.PandaBroadcastMain;
+import com.example.apps.homes.homepandalive.PandaLiveMain;
+import com.example.apps.homes.homerollvideo.RollVideoMain;
 
 import butterknife.Bind;
 import butterknife.OnClick;
