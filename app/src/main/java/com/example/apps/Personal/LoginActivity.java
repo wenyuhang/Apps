@@ -1,15 +1,18 @@
 package com.example.apps.Personal;
 
-import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-
+import com.example.apps.Base.BaseActivity;
 import com.example.apps.R;
 
-public class LoginActivity extends AppCompatActivity {
+public class LoginActivity extends BaseActivity {
+
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login);
+    public int getLayoutId() {
+        return R.layout.activity_login;
+    }
+
+    @Override
+    public void initview() {
+
     }
 }
